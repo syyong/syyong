@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on using tech to live sustainably.
 - 🤔 I’m looking for help with javascript.
 - 💬 Ask me about bioinformatics, proteins, SQL, Python, Wagtail, Django...
-- 📫 How to reach me: https://twitter.com/noble4nyingje
+- 📫 How to reach me: https://www.linkedin.com/in/siewyit/
 - 😄 Pronouns: they/them/theirs
 - ⚡ Fun fact: I'm also a climbing wall instructor and meditation mentor
