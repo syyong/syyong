@@ -7,4 +7,4 @@
 - 💬 Ask me about bioinformatics, proteins, SQL, Python, Wagtail, Django...
 - 📫 How to reach me: https://www.linkedin.com/in/siewyit/
 - 😄 Pronouns: they/them/theirs
-- ⚡ Fun fact: I'm also a climbing wall instructor and meditation mentor
+- ⚡ Fun fact: I'm also a climbing wall instructor and help run Cambridge death cafe
